@@ -1,0 +1,68 @@
+
+body:hover {
+    background: cornsilk;
+
+}
+
+.row {
+    margin-top: 50px;
+}
+
+#logout {
+    margin-left: 695px;
+}
+
+.table {
+    margin-top: 50px
+}
+
+.active {
+    margin-top: 20px;
+}
+
+.test {
+    margin-top: 10px;
+    font-family: Calibri;
+    border-radius: 5px;
+}
+
+.items {
+    display: inline-block;
+    width: 100%
+}
+
+.hover:hover {
+    color: red;
+}
+
+#btn {
+    margin-top: 5px;
+}
+
+.thead-dark {
+    background-color: black;
+    color: cornsilk;
+}
+
+table .fas {
+    padding: 2px;
+    font-size: 14px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.nav-link {
+    margin-left: -16px;
+}
+
+#nvd-qr-code {
+    height: 100px;
+}
+
+#nvd-qr-code canvas {
+    height: 50px;
+}
+
+#nvd-qr-code img {
+    width: 70px;
+}
